@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(8, 12, 233);
+  }
+
+h2 {
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+}
+
+p {
+    font-family: Comic Sans MS;
+    font-weight: bold;
+}
+ol {
+    font-family: Trebuchet MS;
+    font-weight: bolder;
+}
+
+th {
+    font-family: Lucida Sans;
+    font-weight: 300;
+}

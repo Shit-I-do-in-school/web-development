@@ -1,0 +1,21 @@
+p {
+    background-color: rgb(0, 238, 255);
+    text-decoration: rgb(0, 0, 0);
+    font-family: Verdana;   
+}
+
+mark.green {
+    color: rgb(9, 255, 0);
+    background: none;
+}
+
+mark.red {
+    color: rgb(255, 0, 0);
+    background: none;
+    font-family: Verdana;
+    text-decoration: dashed;
+}
+
+body {
+    background-color: yellow;
+}

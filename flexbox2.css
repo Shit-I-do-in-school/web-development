@@ -1,0 +1,20 @@
+body{
+   background-color: navy; 
+}
+
+.container {
+    width: 800px;
+}
+
+.kanin {
+    background-color: red; 
+    display: flex;
+    align-self: flex-end;
+}
+
+
+.apa {
+    background-color: blue; 
+    display: flex;
+    align-self: flex-end;
+}
